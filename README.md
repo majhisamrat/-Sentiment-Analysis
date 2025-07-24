@@ -24,4 +24,3 @@ A machine learning web app to classify text sentiment as **positive** or **negat
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
